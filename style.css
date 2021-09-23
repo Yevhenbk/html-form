@@ -1,0 +1,24 @@
+.input-group-text {
+    width: 16rem;
+}
+.bottom-buttons {
+    display: flex;
+    justify-content: right;
+    padding: .5rem 0 .5rem 0;
+}
+.btn-primary {
+    margin: 0 0 0 .3rem;
+}
+.form-check-label {
+    color: white;
+}
+.input-group-text {
+    background-color: rgb(109, 109, 109);
+}
+.container-header {
+    margin-top: 2rem;
+    border-radius: 5px 5px 0 0;
+}
+.container-footer {
+    border-radius: 0 0 5px 5px;
+}
